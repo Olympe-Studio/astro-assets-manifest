@@ -1,5 +1,7 @@
 {
   "name": "astro-assets-manifest",
+  "description": "Allows your Astro project to automatically generate a manifest of your assets.",
+  "version": "1.0.0",
   "module": "index.ts",
   "type": "module",
   "exports": {
